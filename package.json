@@ -1,0 +1,22 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "Testing Javascript functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yazino12/testing-practice.git"
+  },
+  "author": "Yasin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yazino12/testing-practice/issues"
+  },
+  "homepage": "https://github.com/Yazino12/testing-practice#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
